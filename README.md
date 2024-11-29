@@ -20,4 +20,8 @@ The requiring environment is as bellow:
 
 - Linux 
 - Python 3+
-- PyTorch 0.4.0 
+- PyTorch 0.4.0
+  
+##  Running the sampled database
+
+Due to the size of the space, it is not possible to upload all the sample sets, see more details https://pan.baidu.com/s/1pbGhl4PweUlFuTsYKHVb0Q?pwd=dcbt
